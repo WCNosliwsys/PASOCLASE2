@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Comunicacion" />
+        <activity android:name=".Comunicacion1"></activity>
     </application>
 
 </manifest>
